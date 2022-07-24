@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeevanandh
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in learning coding and AI.
 - 🌱 I’m currently learning deep learning, python and networking.
 - 💞️ I’m looking to collaborate on deep learning and AI projects.
 - 📫 https://www.linkedin.com/in/jeevanandh-vijayan/
